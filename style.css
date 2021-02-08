@@ -1,0 +1,26 @@
+.color {
+  color: rgb(124, 108, 67);
+  border: 10px solid blueviolet;
+  padding: 12px;
+  margin: 8px;
+}
+
+.info {
+  border: 3px solid gray;
+  padding: 4px;
+  margin: 8px;
+}
+
+img {
+  border: 3px solid green;
+  padding: 12px;
+  margin: 8px;
+}
+
+th, td {
+  border: 1px solid black
+}
+.overflow {
+  max-width: 200px;
+  overflow: visible;
+}
